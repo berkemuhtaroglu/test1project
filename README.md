@@ -12,6 +12,7 @@ bilgileri ile değiştiriniz.
 ve servisi çalıştırınız.
 servisi çalıştırdıktan sonra benim bilgisayarımda "http://localhost:1193/Service1.svc" bu linkte
 servisin wsdl bilgileri bulunmaktadır.
+Soap UI veya Postman kullanarak ta bu servisi test edebilirsiniz.
 
 daha önce react kullanmadığım için tam olarak ordaki client olayını ve verdiği corse hatasını henüz çözemedim,
 boş sayfa yaratıp client i içine yazdım şimdilik
