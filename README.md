@@ -14,5 +14,5 @@ servisi çalıştırdıktan sonra benim bilgisayarımda "http://localhost:1193/S
 servisin wsdl bilgileri bulunmaktadır.
 Soap UI veya Postman kullanarak ta bu servisi test edebilirsiniz.
 
-daha önce react kullanmadığım için tam olarak ordaki client olayını ve verdiği corse hatasını henüz çözemedim,
-boş sayfa yaratıp client i içine yazdım şimdilik
+daha önce react kullanmadığım için tam olarak react tarafını henüz çözemedim
+
